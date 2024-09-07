@@ -1,6 +1,6 @@
 # Loan-Eligibility-Prediction-Data-Science-Project
 
-In this Project, we are creating a loan approval prediction system using Python and also it's **GUI** representation.
+In this Project, we are creating a loan approval prediction system using Python.
 
 <img width="200" alt="image" src="https://github.com/datamugger/Loan-Eligibility-Prediction-Data-Science-Project/assets/127864551/74111f2d-15d5-4d62-aba5-cf92c0b019c8">      
    <img width="200" alt="image" src="https://github.com/datamugger/Loan-Eligibility-Prediction-Data-Science-Project/assets/127864551/dff2cc7d-771f-4f8b-8609-3832dfd02a68">
@@ -33,6 +33,21 @@ A mechanism called the Loan Prediction System allows you to apply for loans and 
 
 ## HyperParameter Tunning
 -  Randomized Search CV
+
+## Data Dictionary:
+-  Loan_ID: Unique Loan ID
+-  Gender: Male/Female
+-  Married: Applicant married Y/N
+-  Dependents: Number of dependents
+-  Education: Graduate/Undergrad
+-  Self_Employed: Y/N
+-  ApplicantIncome: Applicant Income
+-  CoapplicantIncome: Coapplicant Income
+-  LoanAmount: Loan amount in thousands
+-  Loan_Amount_Term: Term of loan in months
+-  Credit_History: 1 for meeting the guidelines, 0 for not meeting the guidelines
+-  Property_Area: Urban/Semi Urban/Rural
+-  Loan_Status: Loan approved Y/N
 
 ## Steps followed
 
