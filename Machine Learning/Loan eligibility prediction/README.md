@@ -72,5 +72,3 @@ A mechanism called the Loan Prediction System allows you to apply for loans and 
 - **Model Development** - Building the model with the right selection of the parameters <br>
 - **Model Tuning** - Improving the model performance by tuning the hyper parameters <br>
 - **Model Evaluation** - Testing the model on sufficient sample for correctness <br>
-  i)	Final Presentation and QA <br>
-  ii)	Demonstration of the Working Demo of the system.
