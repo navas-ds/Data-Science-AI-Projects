@@ -16,8 +16,6 @@ A mechanism called the Loan Prediction System allows you to apply for loans and 
 - Matplotlib
 - Scikit
 - Seaborn
-- Tkinter
-- Joblib
   
 ## Encoding
 - Label Encoder
