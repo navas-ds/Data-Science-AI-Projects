@@ -49,6 +49,21 @@ A mechanism called the Loan Prediction System allows you to apply for loans and 
 -  Property_Area: Urban/Semi Urban/Rural
 -  Loan_Status: Loan approved Y/N
 
+## Categorical:
+
+-  Gender
+-  Married
+-  Education
+-  Self_Employed
+-  Loan_Amount_Term
+-  Credit_History
+-  Property_Area
+-  Loan_Status
+ ## continuous:
+
+-  ApplicantIncome
+-  CoapplicantIncome
+-  LoanAmount
 ## Steps followed
 
 - **Data Collection** - Completeness and correctness of data collection <br>
