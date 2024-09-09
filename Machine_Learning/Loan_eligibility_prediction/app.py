@@ -44,3 +44,4 @@ if st.button("Predict Loan Eligibility"):
 
 # Footer
 st.write("Developed with Streamlit")
+
