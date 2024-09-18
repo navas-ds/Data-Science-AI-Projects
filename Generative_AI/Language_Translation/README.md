@@ -1,4 +1,4 @@
-# Langchain FastAPI Server
+# Simple Language Translation
 
 This project sets up a FastAPI server that integrates with Langchain for translation tasks. It uses the `ChatGroq` model to translate text based on user input. The server provides a simple API endpoint to handle translation requests.
 
