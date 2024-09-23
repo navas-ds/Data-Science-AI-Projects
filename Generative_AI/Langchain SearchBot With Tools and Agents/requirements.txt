@@ -1,0 +1,12 @@
+langchain
+python-dotenv
+langchain_community
+langchain_core
+streamlit
+ipykernel
+langchain-groq
+arxiv
+wikipedia
+duckdb
+langchainhub
+duckduckgo-search
