@@ -1,0 +1,10 @@
+langchain
+python-dotenv
+langchain_community
+streamlit
+ipykernel
+langchain-groq
+validators==0.28.1
+youtube_transcript_api
+unstructured
+pytube
