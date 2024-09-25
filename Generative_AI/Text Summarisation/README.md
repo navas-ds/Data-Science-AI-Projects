@@ -62,9 +62,6 @@ This project is a Streamlit web application that summarizes content from YouTube
 
 Contributions are welcome! If you have ideas for improvements, feel free to fork the project and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Acknowledgments
 
