@@ -1,18 +1,8 @@
 from crewai import Agent,LLM
 from tools import yt_tool
 from langchain_community.llms import Ollama
-from langchain_google_genai import ChatGoogleGenerativeAI
-# import os
-# from dotenv import load_dotenv
-
-# load_dotenv()
 
 
-##Call the Gemini Models
-# llm=ChatGoogleGenerativeAI(model="gemini-1.5-flash",
-#                            verbose=True,
-#                            temperature=0.5,
-#                            google_api_key=os.getenv("GOOGLE_API_KEY"))
 
 #Create a senior blog content researcher
 
