@@ -1,11 +1,5 @@
 from crewai_tools import YoutubeChannelSearchTool
-# import os
-# from dotenv import load_dotenv
 
-# load_dotenv()
-
-#Initialize the tool with a specific Youtube channel handle to target your search
-# yt_tool=YoutubeChannelSearchTool(youtube_channel_handle="@krishnaik06")
 
 
 yt_tool =YoutubeChannelSearchTool(
@@ -17,7 +11,7 @@ yt_tool =YoutubeChannelSearchTool(
                 model="llama2",
                 temperature=0.5,
                 # top_p=1,
-                stream=True,
+                #stream=True,
             ),
         ),
         embedder=dict(
@@ -31,4 +25,4 @@ yt_tool =YoutubeChannelSearchTool(
     )
 )
 
-# yt_tool=tool(youtube_channel_handle="@krishnaik06")
+
