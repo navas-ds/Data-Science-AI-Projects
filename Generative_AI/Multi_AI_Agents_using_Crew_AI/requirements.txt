@@ -1,5 +1,6 @@
 crewai
 crewai_tools
-load_dotenv
-langchain_google_genai  #Google gemini models
 langchain_community
+langchain
+ollama
+
